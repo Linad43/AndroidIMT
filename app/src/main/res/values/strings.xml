@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Индекс массы тела</string>
+    <string name="youWeight">Ваш вес(кг):</string>
+    <string name="youHeight">Ваш рост(см):</string>
+    <string name="buttonText">Рассчитать</string>
+    <string name="exit">Выход</string>
+    <string name="ok">OK</string>
+
+    <string name="itm0">Выраженный дефицит массы тела</string>
+    <string name="itm1">Недостаточная масса тела</string>
+    <string name="itm2">Нормальная масса тела</string>
+    <string name="itm3">Избыточная масса тела (предожирение)</string>
+    <string name="itm4">Ожирение 1-ой степени</string>
+    <string name="itm5">Ожирение 2-ой степени</string>
+    <string name="itm6">Ожирение 3-ой степени</string>
+    <string name="firstText">Ваш индекс массы тела ИМТ:</string>
+
+</resources>
